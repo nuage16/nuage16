@@ -3,7 +3,7 @@
 
 I'm a passionate Flutter developer with a strong background in creating mobile applications. My goal is to build beautiful and efficient cross-platform apps that provide a great user experience. Here's a little bit about me:
 
-- 🚀 I'm currently working on [Project Name], a [brief description].
+<!-- - 🚀 I'm currently working on [Project Name], a [brief description]. !-->
 - 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
 - 📫 You can reach me via www.linkedin.com/in/damedelgado16.
 
