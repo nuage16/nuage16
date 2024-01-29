@@ -21,7 +21,7 @@ I'm a passionate Flutter developer with a strong background in creating mobile a
 Here are some projects I've worked on:
 
 1. Inventory System (https://github.com/nuage16/Inventory-System) - My first JAVA project I created during my sophomore year in college.
-2. Fit Me App - Fit Me is a mobile health app for tracking daily calorie intake, searching recipes, monitoring exercises, water intake, subscribing to nutritionists, chatting, and engaging in a community.
+2. Fit Me App (https://fit-me-54f09.web.app/) - Fit Me is a mobile health app for tracking daily calorie intake, searching recipes, monitoring exercises, water intake, subscribing to nutritionists, chatting, and engaging in a community.
 3. Pic-A-Talk (https://play.google.com/store/apps/details?id=com.picatalk&pcampaignid=web_share) - An augmentative and alternative communication (AAC) mobile application for non-verbal kids who have speech and language disorders.
 4. FastSend (https://play.google.com/store/apps/details?id=com.Fastsend.fastsend&hl=en&gl=US) - A mobile wallet that lets users have their cash picked up and delivered anywhere.
 
