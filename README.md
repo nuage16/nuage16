@@ -30,7 +30,7 @@ Here are some projects I've worked on:
 
 I'm always open to collaborating on interesting projects or just having a chat. Connect with me on:
 
-- www.linkedin.com/in/damedelgado16 [LinkedIn]
-- delgadodame16@gmail.com [Email]
+- www.linkedin.com/in/damedelgado16 
+- delgadodame16@gmail.com / delgadodame@gmail.com
 
 Feel free to explore my repositories and provide feedback. Happy coding! 🚀
